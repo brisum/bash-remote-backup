@@ -1,0 +1,17 @@
+{
+  "name": "brisum/bash-remote-backup",
+  "description": "Remote backup via ssh",
+  "keywords": [
+    "remote",
+    "backup"
+  ],
+  "homepage": "https://github.com/brisum/bash-remote-backup",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ]
+}
